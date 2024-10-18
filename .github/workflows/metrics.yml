@@ -23,7 +23,7 @@ jobs:
           # Options
           user: BirdeeHub
           output_action: commit
-          committer_branch: metrics-renders
+          committer_branch: main
           committer_message: "update metrics"
           template: classic
           base: header, activity, community, repositories, metadata
