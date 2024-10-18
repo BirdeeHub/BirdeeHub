@@ -40,8 +40,8 @@ jobs:
           plugin_languages_details: "bytes-size,percentage,lines"
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
-          plugin_languages_categories: "data,markup,programming,prose"
-          plugin_languages_recent_categories: "data,markup,programming,prose"
+          plugin_languages_categories: "data,programming,prose"
+          plugin_languages_recent_categories: "data,programming,prose"
           plugin_languages_limit: 8
           plugin_stargazers: yes
           plugin_lines: yes
@@ -65,7 +65,7 @@ jobs:
           plugin_repositories_affiliations: ""
           plugin_achievements: yes
           plugin_achievements_threshold: B
-          plugin_notable: yes
+          plugin_notable: no
           plugin_notable_filter: "stars>=1000"
           plugin_notable_from: all
           plugin_notable_repositories: yes
