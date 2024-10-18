@@ -43,10 +43,10 @@ jobs:
           plugin_languages_categories: "markup,programming"
           plugin_languages_recent_categories: "markup,programming"
           plugin_languages_limit: 12
-          plugin_stargazers: yes
+          plugin_stargazers: no
           plugin_lines: yes
           plugin_lines_history_limit: 0
-          plugin_stars: yes
+          plugin_stars: no
           plugin_stars_limit: 2
           plugin_licenses: yes
           plugin_licenses_ratio: yes
@@ -63,7 +63,7 @@ jobs:
           plugin_repositories_pinned: 1
           plugin_repositories_random: 1
           plugin_repositories_affiliations: ""
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_threshold: B
           plugin_notable: no
           plugin_notable_filter: "stars>=1000"
