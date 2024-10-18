@@ -53,7 +53,7 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: "repositories,user"
           plugin_followup_indepth: no
-          plugin_reactions: yes
+          plugin_reactions: no
           plugin_reactions_limit: 1000
           plugin_reactions_limit_issues: 1000
           plugin_reactions_limit_discussions: 1000
